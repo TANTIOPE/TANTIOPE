@@ -25,7 +25,7 @@ No hard feelings if my zsh looks better than yours.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img width="830" alt="Tech stack. Infra and GitOps: Kubernetes, Helm, Argo CD, Docker, Terraform, GitHub Actions. Observability: Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Datadog. Cloud and languages: GCP, AWS, Python, Go, TypeScript, Bash, Linux. Security: SonarQube, Trivy, Infisical. Platform: Backstage, ToolHive. AI and agents: Claude, Claude Code, Codex, DeepSeek, LangGraph, Langfuse, n8n, MCP." src="assets/stack-light.svg">
+  <img width="830" alt="Tech stack. Infra and GitOps: Kubernetes, Helm, Argo CD, Docker, Terraform, GitHub Actions, Velero. Observability: Prometheus, Grafana, Loki, Tempo, Pyroscope, OpenTelemetry, Datadog. Cloud and languages: GCP, AWS, Python, Go, TypeScript, Bash, Linux. Security: SonarQube, Trivy, Snyk, Sealed Secrets, Infisical, Auth0. Platform: Backstage, ToolHive. AI and agents: Claude, Claude Code, Codex, DeepSeek, LangGraph, Langfuse, n8n, MCP." src="assets/stack-light.svg">
 </picture>
 
 <p align="center"><img width="100%" height="1" alt="" src="assets/divider-red.svg" /></p>
