@@ -19,7 +19,7 @@ No hard feelings if my zsh looks better than yours.
 
 <a href="https://www.linkedin.com/in/tristan-antiope-9b9a4699/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:Antiope.Tristan01.pro@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="cv/Tristan-Antiope-CV-EN.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-24292F?style=flat&logo=readdotcv&logoColor=white" /></a><br clear="right">
+<a href="cv/Tristan-Antiope-CV-EN.pdf"><img alt="CV" src="assets/badges/cv.svg" /></a><br clear="right">
 
 <p align="center"><img width="100%" height="1" alt="" src="assets/divider-red.svg" /></p>
 
@@ -56,7 +56,7 @@ MCP server that gives AI assistants access to Datadog, released before the offic
 - **Token-efficient**: log sampling and compact modes keep responses small
 - **Safe writes**: read-only mode and dry-run validation
 
-<a href="https://www.npmjs.com/package/datadog-mcp"><img alt="npm datadog-mcp" src="https://img.shields.io/npm/v/datadog-mcp?style=for-the-badge&logo=npm&label=datadog-mcp&color=B3282D&labelColor=141414" /></a>
+<a href="https://www.npmjs.com/package/datadog-mcp"><img alt="npm datadog-mcp" src="assets/badges/npm-datadog-mcp.svg" /></a>
 
 #### <img src="assets/icons/toolhive.svg" width="22" height="22" alt="" /> [stacklok/toolhive #5996](https://github.com/stacklok/toolhive/pull/5996) · Contributor
 
